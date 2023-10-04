@@ -1,4 +1,4 @@
-public class kembalian {
+public class Kembalian {
 
     public static void main(String[] args) {
       int jumlah = 250000;
